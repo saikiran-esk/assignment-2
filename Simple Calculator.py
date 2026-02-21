@@ -1,0 +1,8 @@
+FirstNumber=int(input("Enter First number:"))
+SecondNumber=int(input("Enter Second number:"))
+print(f"{FirstNumber}+{SecondNumber}={FirstNumber+SecondNumber}")
+print(f"{FirstNumber}-{SecondNumber}={FirstNumber-SecondNumber}")
+print(f"{FirstNumber}*{SecondNumber}={FirstNumber*SecondNumber}")
+print(f"{FirstNumber}/{SecondNumber}={FirstNumber/SecondNumber:.2f}")
+print(f"{FirstNumber}%{SecondNumber}={FirstNumber%SecondNumber}")
+print(f"{FirstNumber}^{SecondNumber}={FirstNumber**SecondNumber}")
