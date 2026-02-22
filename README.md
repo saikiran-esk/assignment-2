@@ -1,4 +1,6 @@
-Assignment coding Questionuestions
+Name: E Sai Kiran
+USN: 1CR22CS058
+Assignment coding Questions
 
 Question 1: Personal Bio Card
 
