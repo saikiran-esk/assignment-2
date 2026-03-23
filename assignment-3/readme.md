@@ -16,7 +16,51 @@ Ollama (local AI)
 # Setup Instructions
 
 1. Clone the repository
+
 git clone https:github.com/saikiran-esk/assignment
 cd assignment-3
-2. Install dependencies
+
+3. Install dependencies
 pip install -r requirements.txt
+
+# How to Obtain API Keys
+
+1. Groq
+
+Visit: https://console.groq.com/
+
+Generate API key
+
+set GROQ_API_KEY="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"
+
+2. Cohere
+
+Visit: https://dashboard.cohere.com/
+
+Generate API key
+
+set COHERE_API_KEY="Jz4OVsjTr96qLD4EvVtLvmbxhrrjHm8M56A3WmzI"
+
+3. Hugging Face
+
+Visit: https://huggingface.co/settings/tokens
+
+Create token (enable inference access)
+
+set HUGGINGFACE_API_KEY="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"
+
+4. Google Gemini
+
+Visit: https://makersuite.google.com/app/apikey
+
+Generate API key
+
+set GEMINI_API_KEY="AIzaSyD9yw7DW-Li2XMmw-3PO3EqoWvu6EEwbng"
+
+5. Ollama (No API Key Required)
+
+Install Ollama: https://ollama.com/
+
+Run a model locally:
+
+ollama run tinyllama
