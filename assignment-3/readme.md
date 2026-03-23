@@ -105,3 +105,16 @@ Hugging Face output
 Gemini output
 
 Ollama output
+
+# Project Structure
+
+assignment-3/ 
+│ ├── openai_api.py 
+├── groq_api.py 
+├── cohere_api.py 
+├── huggingface_api.py 
+├── gemini_api.py 
+├── ollama_api.py 
+│ ├── requirements.txt 
+├── README.md 
+└── screenshots/
