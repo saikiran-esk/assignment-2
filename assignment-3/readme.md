@@ -70,14 +70,21 @@ ollama run tinyllama
 Run each file individually:
 
 python openai_api.py
+
 python groq_api.py
+
 python cohere_api.py
+
 python huggingface_api.py
+
 python gemini_api.py
+
 python ollama_api.py
 
 Each program:
 
 Accepts user input
+
 Sends request to API
+
 Displays response
