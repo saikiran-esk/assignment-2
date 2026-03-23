@@ -14,3 +14,9 @@ Google Gemini
 Ollama (local AI)
 
 # Setup Instructions
+
+1. Clone the repository
+git clone https:github.com/saikiran-esk/assignment
+cd assignment-3
+2. Install dependencies
+pip install -r requirements.txt
